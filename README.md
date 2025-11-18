@@ -119,3 +119,12 @@ Estructura actualizada del repositorio:
 - La **interfaz Test** demuestra un rendimiento superior en todas las métricas analizadas.
 
 - Se recomienda implementarla como la interfaz principal debido a su mayor eficiencia.
+
+
+### 👩‍💼 Analistas del Proyecto
+
+Este proyecto ha sido realizado por estudiantes de **Ironhack** como parte de su formación en análisis de datos, 2025:
+
+- **Noelia Martin**
+
+- **Nerea Gomez**
