@@ -1,4 +1,4 @@
-VANGUARD – Análisis de Clientes y Eficiencia de Interfaces
+## VANGUARD – Análisis de Clientes y Eficiencia de Interfaces
 🧩 Descripción del Proyecto
 
 VANGUARD es un proyecto de análisis de datos realizado para una empresa del sector financiero que busca comprender en profundidad su base de clientes, identificar su cliente promedio, definir un cliente objetivo, y evaluar la eficiencia de dos interfaces digitales: la interfaz antigua (Control) y la interfaz nueva (Test).
