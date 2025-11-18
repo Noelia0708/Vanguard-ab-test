@@ -1,4 +1,14 @@
 # VANGUARD – Análisis de Clientes y Eficiencia de Interfaces
+
+### 👩‍💼 Analistas del Proyecto
+
+Este proyecto ha sido realizado por estudiantes de **Ironhack** como parte de su formación en análisis de datos, 2025:
+
+- **Noelia Martin**
+
+- **Nerea Gomez**
+
+
 ### 🧩 Descripción del Proyecto
 
 **VANGUARD** es un proyecto de análisis de datos realizado para una empresa del sector financiero que busca comprender en profundidad su base de clientes, identificar su **cliente promedio**, definir un **cliente objetivo**, y evaluar la eficiencia de dos interfaces digitales: la **interfaz antigua (Control)** y la **interfaz nueva (Test)**.
@@ -68,6 +78,7 @@ La interfaz **Test** obtiene mejores resultados en todos los indicadores, demost
 
 - Desarrollo de dashboards interactivos para la visualización del análisis
 
+
 ### 📊 Dashboards en Tableau
 
 - Perfil demográfico y económico
@@ -121,10 +132,3 @@ Estructura actualizada del repositorio:
 - Se recomienda implementarla como la interfaz principal debido a su mayor eficiencia.
 
 
-### 👩‍💼 Analistas del Proyecto
-
-Este proyecto ha sido realizado por estudiantes de **Ironhack** como parte de su formación en análisis de datos, 2025:
-
-- **Noelia Martin**
-
-- **Nerea Gomez**
