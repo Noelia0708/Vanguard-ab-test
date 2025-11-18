@@ -81,6 +81,7 @@ Conclusiones finales
 Estructura actualizada del repositorio:
 
 📂 VANGUARD
+
  ┣ 📁 CSV
  ┃ ┣ 📄 cliente_objetivo y cliente_promedio.csv
  ┃ ┣ 📄 df_demo_final.txt
