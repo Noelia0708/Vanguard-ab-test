@@ -92,16 +92,12 @@ Estructura actualizada del repositorio:
  ┃ ┣ 📄 df_clientes_experimento_final.txt
  ┃ ┣ 📄 df_final_web_data_pt_1.txt
  ┃ ┗ 📄 df_final_web_data_pt_2.txt
+ ┣ 📄 .gitignore                     # Configuración de Git
+ ┣ 📄 Proyecto5.ipynb                # Cuaderno con análisis y tabla final
+ ┣ 📄 README.md                      # Documentación del proyecto
+ ┣ 📄 VANGUARD1.twbx                 # Archivo de Tableau con todos los paneles
+ ┗ 📄 tabla_final.csv                # Tabla final procesada para visualización y análisis
 
- ┣ 📄 .gitignore                                    # Configuración de Git
- 
- ┣ 📄 Proyecto5.ipynb                               # Notebook con análisis y tabla final
- 
- ┣ 📄 README.md                                     # Documentación del proyecto
- 
- ┣ 📄 VANGUARD1.twbx                                # Archivo de Tableau con todos los dashboards
- 
- ┣ 📄 tabla_final.csv                               # Tabla final procesada para visualización y análisis
 
 
 ### 🧠 Conclusiones Generales
