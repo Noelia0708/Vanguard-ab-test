@@ -5,7 +5,9 @@ VANGUARD es un proyecto de análisis de datos realizado para una empresa del sec
 
 El objetivo principal es generar conclusiones basadas en datos que ayuden a mejorar la experiencia del usuario y optimizar la conversión dentro de la plataforma.
 
+
 🎯 Objetivos Principales
+
 1. Análisis del Cliente Promedio
 
 Estudio detallado del comportamiento y características de los clientes:
@@ -18,6 +20,7 @@ Número de cuentas
 
 Nivel de actividad
 
+
 2. Definición del Cliente Objetivo
 
 El cliente objetivo definido para la empresa presenta:
@@ -27,6 +30,7 @@ Edad: 25–45 años
 Balance económico: ~160.000€
 
 Perfil: digital, activo e independiente dentro de la plataforma
+
 
 3. Evaluación de Interfaces (Control vs Test)
 
@@ -49,7 +53,9 @@ Eficiencia en cada fase del flujo
 Conclusión:
 La interfaz Test obtiene mejores resultados en todos los indicadores, demostrando ser la opción más eficiente y orientada al usuario.
 
+
 🛠️ Herramientas Utilizadas
+
 ➡️ VSCode
 
 Limpieza de columnas
@@ -74,7 +80,6 @@ Variación por tiempo
 
 Porcentajes Control vs Test
 
-Conclusiones finales
 
 📁 Estructura del Repositorio
 
@@ -90,10 +95,15 @@ Estructura actualizada del repositorio:
  ┃ ┗ 📄 df_final_web_data_pt_2.txt
  
  ┣ 📄 .gitignore                                    # Configuración de Git
+ 
  ┣ 📄 Proyecto5.ipynb                               # Notebook con análisis y tabla final
+ 
  ┣ 📄 README.md                                     # Documentación del proyecto
+ 
  ┣ 📄 VANGUARD1.twbx                                # Archivo de Tableau con todos los dashboards
+ 
  ┣ 📄 tabla_final.csv                               # Tabla final procesada para visualización y análisis
+
 
 🧠 Conclusiones Generales
 
