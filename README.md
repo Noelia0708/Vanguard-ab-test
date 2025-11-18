@@ -25,20 +25,20 @@ Estudio detallado del comportamiento y características de los clientes:
 
 El cliente objetivo definido para la empresa presenta:
 
-- Edad: 25–45 años
+- **Edad**: 25–45 años
 
-- Balance económico: ~160.000€
+- **Balance económico**: ~160.000€
 
-- Perfil: digital, activo e independiente dentro de la plataforma
+- **Perfil**: digital, activo e independiente dentro de la plataforma
 
 
 ##### 3. Evaluación de Interfaces (Control vs Test)
 
 *Comparación entre*:
 
-- Interfaz Control: versión antigua
+- **Interfaz Control**: versión antigua
 
-- Interfaz Test: versión nueva
+- **Interfaz Test**: versión nueva
 
 *Variables analizadas*:
 
@@ -51,7 +51,7 @@ El cliente objetivo definido para la empresa presenta:
 - Eficiencia en cada fase del flujo
 
 *Conclusión:*
-La interfaz Test obtiene mejores resultados en todos los indicadores, demostrando ser la opción más eficiente y orientada al usuario.
+La interfaz **Test** obtiene mejores resultados en todos los indicadores, demostrando ser la opción más eficiente y orientada al usuario.
 
 
 ### 🛠️ Herramientas Utilizadas
@@ -112,10 +112,10 @@ Estructura actualizada del repositorio:
 
 ### 🧠 Conclusiones Generales
 
-- El cliente promedio se sitúa entre los 30 y 70 años, con variación en capital y actividad.
+- El **cliente promedio** se sitúa entre los **30 y 70 años**, con variación en capital y actividad.
 
-- El cliente objetivo es más joven, entre los 25 y 45 años, dispone de mayor balance y tiene un comportamiento digital más activo.
+- El **cliente objetivo** es más joven, entre los 25 y 45 años, dispone de mayor balance y tiene un comportamiento digital más activo.
 
-- La interfaz Test demuestra un rendimiento superior en todas las métricas analizadas.
+- La **interfaz Test** demuestra un rendimiento superior en todas las métricas analizadas.
 
 - Se recomienda implementarla como la interfaz principal debido a su mayor eficiencia.
