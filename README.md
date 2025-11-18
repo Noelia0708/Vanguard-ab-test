@@ -1,87 +1,87 @@
-## VANGUARD – Análisis de Clientes y Eficiencia de Interfaces
-🧩 Descripción del Proyecto
+# VANGUARD – Análisis de Clientes y Eficiencia de Interfaces
+### 🧩 Descripción del Proyecto
 
-VANGUARD es un proyecto de análisis de datos realizado para una empresa del sector financiero que busca comprender en profundidad su base de clientes, identificar su cliente promedio, definir un cliente objetivo, y evaluar la eficiencia de dos interfaces digitales: la interfaz antigua (Control) y la interfaz nueva (Test).
+**VANGUARD** es un proyecto de análisis de datos realizado para una empresa del sector financiero que busca comprender en profundidad su base de clientes, identificar su **cliente promedio**, definir un **cliente objetivo**, y evaluar la eficiencia de dos interfaces digitales: la **interfaz antigua (Control)** y la **interfaz nueva (Test)**.
 
 El objetivo principal es generar conclusiones basadas en datos que ayuden a mejorar la experiencia del usuario y optimizar la conversión dentro de la plataforma.
 
 
-🎯 Objetivos Principales
+### 🎯 Objetivos Principales
 
-1. Análisis del Cliente Promedio
+##### 1. Análisis del Cliente Promedio
 
 Estudio detallado del comportamiento y características de los clientes:
 
-Edad
+- Edad
 
-Saldo disponible
+- Saldo disponible
 
-Número de cuentas
+- Número de cuentas
 
-Nivel de actividad
+- Nivel de actividad
 
 
-2. Definición del Cliente Objetivo
+##### 2. Definición del Cliente Objetivo
 
 El cliente objetivo definido para la empresa presenta:
 
-Edad: 25–45 años
+- Edad: 25–45 años
 
-Balance económico: ~160.000€
+- Balance económico: ~160.000€
 
-Perfil: digital, activo e independiente dentro de la plataforma
+- Perfil: digital, activo e independiente dentro de la plataforma
 
 
-3. Evaluación de Interfaces (Control vs Test)
+##### 3. Evaluación de Interfaces (Control vs Test)
 
-Comparación entre:
+*Comparación entre*:
 
-Interfaz Control: versión antigua
+- Interfaz Control: versión antigua
 
-Interfaz Test: versión nueva
+- Interfaz Test: versión nueva
 
-Variables analizadas:
+*Variables analizadas*:
 
-Porcentaje de finalización
+- Porcentaje de finalización
 
-Fluidez del proceso
+- Fluidez del proceso
 
-Puntos de abandono
+- Puntos de abandono
 
-Eficiencia en cada fase del flujo
+- Eficiencia en cada fase del flujo
 
-Conclusión:
+*Conclusión:*
 La interfaz Test obtiene mejores resultados en todos los indicadores, demostrando ser la opción más eficiente y orientada al usuario.
 
 
-🛠️ Herramientas Utilizadas
+### 🛠️ Herramientas Utilizadas
 
-➡️ VSCode
+➡️ *VSCode*
 
-Limpieza de columnas
+- Limpieza de columnas
 
-Análisis de correlaciones
+- Análisis de correlaciones
 
-Preparación y estudio de los tiempos de ambas interfaces
+- Preparación y estudio de los tiempos de ambas interfaces
 
-➡️ Tableau
+➡️ *Tableau*
 
-Desarrollo de dashboards interactivos para la visualización del análisis
+- Desarrollo de dashboards interactivos para la visualización del análisis
 
-📊 Dashboards en Tableau
+### 📊 Dashboards en Tableau
 
-Perfil demográfico y económico
+- Perfil demográfico y económico
 
-Perfil económico y logístico
+- Perfil económico y logístico
 
-Cliente objetivo
+- Cliente objetivo
 
-Variación por tiempo
+- Variación por tiempo
 
-Porcentajes Control vs Test
+- Porcentajes Control vs Test
 
 
-📁 Estructura del Repositorio
+### 📁 Estructura del Repositorio
 
 Estructura actualizada del repositorio:
 
@@ -104,12 +104,12 @@ Estructura actualizada del repositorio:
  ┣ 📄 tabla_final.csv                               # Tabla final procesada para visualización y análisis
 
 
-🧠 Conclusiones Generales
+### 🧠 Conclusiones Generales
 
-El cliente promedio se sitúa entre los 30 y 70 años, con variación en capital y actividad.
+- El cliente promedio se sitúa entre los 30 y 70 años, con variación en capital y actividad.
 
-El cliente objetivo es más joven, dispone de mayor balance y tiene un comportamiento digital más activo.
+- El cliente objetivo es más joven, entre los 25 y 45 años, dispone de mayor balance y tiene un comportamiento digital más activo.
 
-La interfaz Test demuestra un rendimiento superior en todas las métricas analizadas.
+- La interfaz Test demuestra un rendimiento superior en todas las métricas analizadas.
 
-Se recomienda implementarla como la interfaz principal debido a su mayor eficiencia.
+- Se recomienda implementarla como la interfaz principal debido a su mayor eficiencia.
